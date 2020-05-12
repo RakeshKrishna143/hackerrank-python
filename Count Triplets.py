@@ -1,5 +1,4 @@
 from collections import defaultdict
-from _collections import defaultdict
 
 a = [1,3,9,9,27,81]
 r=3
